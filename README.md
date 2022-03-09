@@ -14,7 +14,7 @@ Being an adherent of the anti-fragile philosophy, I embrace entropy to an extent
 
 <img align="left" alt="GIF" src="code.gif" width="500" height="320"  />
 
-- 📋 Check out my github pages, [githubpages]() :)
+- 📋 Check out my github pages, [githubpages]()📈
 - 💼 any freelance work? do reach, [email](mailto:yosemite@californiamail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
