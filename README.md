@@ -9,6 +9,8 @@ Hello, i'm Tanishq, a passionate quant with buy side and sell side investment ex
 
 My personal interests lies in understanding of the universe as it is and mathematics is the surest way to reach the ultimate truth. I will be sharing my musings on the ideas of a mathematical universe on my blog! What more? Imagine humans being a Type III civilization! 
 
+Quiz: What could be common between the decay pattern of a uranium atom, the decline of societies, and the bicameralism of human consciousness?
+Hint: You can refer to the market trading strategy of securing the downside, while the upside takes care of itself (survival long enough), this also is fundamental to the existence of religion
 
 **Languages and Tools:**  
 <code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
