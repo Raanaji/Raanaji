@@ -32,7 +32,7 @@ Hello, i'm Tanishq, a passionate quant with buy side and sell side investment ex
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Raanaji&show_icons=true&theme=synthwave" alt="Raanaji" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Raanaji&show_icons=true&theme=synthwave" alt="Raanaji" />
 
 
 
