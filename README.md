@@ -1,4 +1,4 @@
-### Greetings <img src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif" width="25px">
+### Greetings 🖖
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Raanaji.Raanaji)
 
@@ -26,6 +26,7 @@ Being an adherent of the anti-fragile philosophy, I embrace entropy to an extent
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raanaji&langs_count=8)](https://github.com/Raanaji/github-readme-stats)
 
