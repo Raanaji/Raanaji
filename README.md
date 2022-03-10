@@ -34,7 +34,7 @@ Hint: You can refer to the market trading strategy of securing the downside, whi
 
 📈 my github stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Raanaji&show_icons=true&theme=synthwave" alt="Raanaji"  />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raanaji&show_icons=true&theme=synthwave" alt="Raanaji"  />
 
 - 📋 Check out my github pages, [githubpages]()📈
 - 📧 Any freelance work? do reach, [email](mailto:yosemite@californiamail.com)
