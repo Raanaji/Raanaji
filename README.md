@@ -38,4 +38,4 @@ Hint: You can refer to the market trading strategy of securing the downside, whi
 - 📋 Check out my github pages, [githubpages]()📈
 - 📧 Any freelance work? do reach, [email](mailto:yosemite@californiamail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raanaji&layout=compact)](https://github.com/Raanaji/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raanaji&langs_count=8)](https://github.com/Raanaji/github-readme-stats)
