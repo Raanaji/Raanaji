@@ -35,7 +35,7 @@ Hint: You can refer to the market trading strategy of securing the downside, whi
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raanaji&show_icons=true&theme=synthwave" alt="Raanaji"  />
 
-- 📋 Check out my github pages, [githubpages]()📈
+- 📋 Check out my Github Website, [Average Enjoyer](https://raanaji.github.io/average-enjoyer/)📈
 - 📧 Any freelance work? do reach, [email](mailto:yosemite@californiamail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raanaji&langs_count=8)](https://github.com/Raanaji/github-readme-stats)
