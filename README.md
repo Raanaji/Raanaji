@@ -1,4 +1,4 @@
-### Greetings Fellow Human 🖖
+### Greetings Fellow Human 🖖 [Check out my Website](https://raanaji.github.io/tanishq/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Raanaji.Raanaji)
 
