@@ -1,8 +1,7 @@
+### Greetings Fellow Human 🖖 [Check out my Website Resume](https://raanaji.github.io/tanishq/)
+Check out my [PDF Resume](https://github.com/Raanaji/tanishq/blob/7f9919cbe93de9b24a56d60ceef8d8187f9268e5/Tanishq-Chauhan_resume.pdf)
+<br>
 ![](https://visitor-badge.glitch.me/badge?page_id=Raanaji.Raanaji)
-
-## Greetings Fellow Human 🖖 [Check out my Website Resume](https://raanaji.github.io/tanishq/)
-###  Check out my [PDF Resume](https://github.com/Raanaji/tanishq/blob/7f9919cbe93de9b24a56d60ceef8d8187f9268e5/Tanishq-Chauhan_resume.pdf)
-
 
 <img align="left" alt="GIF" src="welcome.gif" width="494" height="320" style="zoom: 200%;" />
 <img align="left" alt="GIF" src="ecode.gif" width="494" height="320"  />
