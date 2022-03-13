@@ -1,5 +1,5 @@
-### Greetings Fellow Human 🖖 [Check out my Website Resume](https://raanaji.github.io/tanishq/)
-##  Check out my [PDF Resume](https://github.com/Raanaji/tanishq/blob/7f9919cbe93de9b24a56d60ceef8d8187f9268e5/Tanishq-Chauhan_resume.pdf)
+## Greetings Fellow Human 🖖 [Check out my Website Resume](https://raanaji.github.io/tanishq/)
+###  Check out my [PDF Resume](https://github.com/Raanaji/tanishq/blob/7f9919cbe93de9b24a56d60ceef8d8187f9268e5/Tanishq-Chauhan_resume.pdf)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Raanaji.Raanaji)
 
