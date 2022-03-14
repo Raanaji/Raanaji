@@ -20,8 +20,15 @@ Hint: You can refer to the market trading strategy of securing the downside, whi
 
 <img src="loop-warp.gif" width="10000">
 
- # 👨‍💻 Languages and Tools 👨‍💻
+# 👨‍🏫 Alma Mater 👨‍🏫
 
+<a href="#"/><img src="https://www.york.ac.uk/static/stable/img/logo.svg" width="90"></a>
+<a href="#"/><img src="https://london.ac.uk/sites/default/files/University-of-london-logo_1.png" width="90"></a>
+<a href="#"/><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/WQU_logo.jpg" width="125"></a>
+
+
+
+# 👨‍💻 Languages and Tools 👨‍💻
 
 
 <a htef="#"/><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
