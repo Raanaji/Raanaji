@@ -11,7 +11,7 @@
 
  ## My Profile Card 🎴
 
- ![welcome](/Users/bigshort/Documents/Github/Readme/tanishqreadme/welcome.gif)
+ ![welcome](welcome.gif)
 
 
 
