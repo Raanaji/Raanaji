@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>  </a>
 
 
- ## FINANCIAL ENGINEER 🎴
+ ## FINANCIAL ENGINEER & ECONOMIST
 
 Hello, i'm Tanishq, a passionate quant with buy side and sell side investment experience based out of Dubai. My passion for quantitative finance is deep rooted in a luck-by-chance experience when I first came across a copy of "Fooled by Randomness" by Nassim Taleb at a bookstore during my 2nd year undergraduate. Since then, I have got two postguate qualifications in quantitative finance and have worked on several research projects involving use of quantitative methods. My main research was on application of copula models in Mortgage Backed Securities, and on alternative methods of quantifying risk in stochastic processes.
 
