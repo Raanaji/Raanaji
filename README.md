@@ -1,42 +1,95 @@
-### Greetings Fellow Human 🖖 [Check out my Website Resume](https://raanaji.github.io/tanishq/)
-Check out my [PDF Resume](https://github.com/Raanaji/tanishq/blob/7f9919cbe93de9b24a56d60ceef8d8187f9268e5/Tanishq-Chauhan_resume.pdf)
-<br>
-![](https://visitor-badge.glitch.me/badge?page_id=Raanaji.Raanaji)
+# My Web Page (Underconstruction)🌐
 
-<img align="left" alt="GIF" src="welcome.gif" width="494" height="320" style="zoom: 200%;" />
-<img align="left" alt="GIF" src="ecode.gif" width="494" height="320"  />
+  <a href="#"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
+  <a href="#"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
+  <a href="#"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/></a>
 
-Hello, i'm Tanishq, a passionate quant with buy side and sell side investment experience based out of Dubai. My passion for quantitative finance is deep rooted in a luck-by-chance experience when I first came across a copy of "Fooled by Randomness" by Nassim Taleb at a bookstore during my 2nd year undergraduate. Since then, I have got two postguate qualifications in quantitative finance and have worked on several research projects involving use of quantitative methods. My main research was on application of copula models in Mortgage Backed Securities, and on alternative methods of quantifying risk in stochastic processes.
-
-My personal interests lies in understanding of the universe as it is and mathematics is the surest way to reach the ultimate truth. I will be sharing my musings on the ideas of a mathematical universe on my blog.
+  ![](https://visitor-badge.glitch.me/badge?page_id=Raanaji.Raanaji) <img src="https://img.shields.io/github/followers/Raanaji?label=Followers&style=flat&color=0e75b6" alt="Raanaji"/>
+  <a href="mailto:yosemite@californiamail.com">
+    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>  </a>
 
 
+ ## My Profile Card 🎴
 
-
-
+ ![welcome](/Users/bigshort/Documents/Github/Readme/tanishqreadme/welcome.gif)
 
 
 
-
-Quiz: What could be common between the decay pattern of a uranium atom, the decline of societies, and the bicameralism of human consciousness?
-Hint: You can refer to the market trading strategy of securing the downside, while the upside takes care of itself (survival long enough), this also is fundamental to the existence of religion
-
-**Languages and Tools:**  
-<code><img height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png"></code>
-<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLJMPgX79UHtDwTcB8ff2dg7caUeVDpfxtQ&usqp=CAU"></code>
+ # 👨‍💻 Languages and Tools 👨‍💻
 
 
-📈 my github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raanaji&show_icons=true&theme=synthwave" alt="Raanaji"  />
+<a htef="#"/><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>
+<a htef="#"/><img src="https://img.shields.io/badge/R-276DC2?style=for-the-badge&logo=r&logoColor=white"/></a>
+<a htef="#"/><img src="https://img.shields.io/badge/jupyter-fd5602?style=for-the-badge&logo=jupyter&logoColor=white"/></a>
+<a htef="#"/><img src="https://img.shields.io/badge/matlab-246bb3?style=for-the-badge&logo=mathworks&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 
-- 📋 Check out my Github Website, [Average Enjoyer](https://raanaji.github.io/average-enjoyer/)📈
-- 📧 Any freelance work? do reach, [email](mailto:yosemite@californiamail.com)
+## Have Experince in 🔰:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raanaji&langs_count=8)](https://github.com/Raanaji/github-readme-stats)
+<a href="#"/><img src="https://img.shields.io/badge/VS%20CODE-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/GIT-F1502F?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/%20miro-F2CA02?style=for-the-badge&logo=miro&logoColor=black"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/intellij%20idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/></a>
+
+
+## OS Experience 🔰:
+
+<a href="#"/><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
+
+## I Trade On 💰:
+
+<a href="#"/><img src="https://img.shields.io/badge/%20binance-F0B90B?style=for-the-badge&logo=binance&logoColor=black"/></a>
+
+
+
+## Currently Learning 📖 
+
+<a href="#"/><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a hreg="#"/><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+
+
+
+##  My Github Stats 📊
+
+<p align="center">
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api?username=Raanaji&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" width = "90%"/></a> </p>
+<p align="center">
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raanaji&layout=compact&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" width = "90%"/></a></p>
+<p align="center">
+<a href="#"/><img alt="TYP Github Status" src="https://github-readme-streak-stats.herokuapp.com/?user=Raanaji&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0D1117" width = "90%"/></a> 
+</p>
+
+<b>Note:</b> Most used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+# 
+
+<a href="#"/><img src="https://az743702.vo.msecnd.net/cdn/kofi2.png?v=0"/></a>
+
+
+
+
+# contact
+
+<a href="mailto:the.young.programmer.team@gmail.com"/><img src="https://img.shields.io/badge/mail.com-283166?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://twitter.com/tnemonet"/><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="#"/><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+
+# 
+
