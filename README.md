@@ -1,4 +1,4 @@
-# My Web Page 🌎
+# 👉[My Services]() 🌎  👉[My Interactive Resume](https://raanaji.github.io/tanishq/) 👉[My PDF Resume](https://github.com/Raanaji/tanishq/blob/6e347b94fe1a09f83d6608b1963457204fe636be/Tanishq-Chauhan_resume.pdf)
 
   <a href="#"/> <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/></a>
   <a href="#"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
