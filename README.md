@@ -100,5 +100,16 @@ Hint: You can refer to the market trading strategy of securing the downside, whi
 <a href="mailto:the.young.programmer.team@gmail.com"/><img src="https://img.shields.io/badge/mail.com-283166?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
+
+# Shows to watch when bored!
+
+<a href="#"/><img src="https://upload.wikimedia.org/wikipedia/en/f/fa/Lizzie_McGuire_%28television_logo%29.png?1647334324241" width="90">
+<a href="#"/><img src="https://upload.wikimedia.org/wikipedia/en/e/e5/Logo_drakejosh.png" width="90">
+<a href="#"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Star_Trek_DS9_logo.svg/500px-Star_Trek_DS9_logo.svg.png" width="100">
+<a href="#"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Star_Trek_ENT_logo.svg/500px-Star_Trek_ENT_logo.svg.png" width="90">
+<a href="#"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Star_Trek_Voyager_Logo.svg/500px-Star_Trek_Voyager_Logo.svg.png" width="90">
+<a href="#"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Star_Trek_The_Next_Generation_Logo.svg/500px-Star_Trek_The_Next_Generation_Logo.svg.png" width="90">
+
+
 # 
 
