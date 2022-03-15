@@ -4,7 +4,7 @@
   <a href="#"/><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
   <a href="#"/><img src="https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"/></a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Raanaji.Raanaji)
+<img src="https://komarev.com/ghpvc/?username=Raanaji&label=Visitors&color=0e75b6&style=flat" alt="Raanaji" />
   <img src="https://img.shields.io/github/followers/Raanaji?label=Followers&style=flat&color=0e75b6" alt="Raanaji"/>
   <a href="mailto:yosemite@californiamail.com">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/>  </a>
