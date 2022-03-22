@@ -16,8 +16,6 @@ My personal interests lies in understanding of the universe as it is and mathema
 Quiz: What could be common between the decay pattern of a uranium atom, the decline of societies, and the bicameralism of human consciousness?
 Hint: You can refer to the market trading strategy of securing the downside, while the upside takes care of itself (survival long enough), this also is fundamental to the existence of religion
 
-<img src="https://c.tenor.com/uwm5Yq4vAVIAAAAC/star-trek-enterprise-enterprise.gif" width="10000">
-
 ## My Github Projects:
 
 <a href="https://github.com/Raanaji/xml2flow"/><img src="https://img.shields.io/badge/%20XML2FLOW-964B00?style=for-the-badge&logo=XML&logoColor=black"/></a>
