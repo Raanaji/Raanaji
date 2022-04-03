@@ -95,7 +95,7 @@ Hint: You can refer to the market trading strategy of securing the downside, whi
 
 # contact
 
-<a href="mailto:the.young.programmer.team@gmail.com"/><img src="https://img.shields.io/badge/mail.com-283166?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:yosemite@californiamail.com"/><img src="https://img.shields.io/badge/mail.com-283166?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="#"/><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 
