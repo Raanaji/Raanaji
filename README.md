@@ -21,7 +21,7 @@ Hint: You can refer to the market trading strategy of securing the downside, whi
 <a href="#"/><img src="https://www.york.ac.uk/static/stable/img/logo.svg" width="90"></a>&#160;&#160;&#160;&#160;
 <a href="#"/><img src="https://london.ac.uk/sites/default/files/University-of-london-logo_1.png" width="90"></a>
 <a href="#"/><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/WQU_logo.jpg" width="125"></a>
-
+<a href="#"/><img src="https://www.trinitycollege.com/images/trinity_college_london_logo.png" width="125"></a>tgo
 
 
 # 👨‍💻 Languages and Tools 👨‍💻
